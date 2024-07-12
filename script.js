@@ -223,7 +223,7 @@ document.querySelectorAll('.about-photos').forEach(function (el) {
 
 const contentArray = [
     {
-        imagePath: 'given_assets/image.png',
+        imagePath: 'given_assets/image1.png',
         title: 'Genderless Kei - Japan\'s Hot',
         description: 'Set to launch on the manufacturer\'s new A330neo aircraft in 2017, it\'s offering lots of'
     },
@@ -233,7 +233,7 @@ const contentArray = [
         description: 'Set to launch on the manufacturer\'s new A330neo aircraft in 2017, it\'s offering lots of'
     },
     {
-        imagePath: 'given_assets/image.png',
+        imagePath: 'given_assets/image2.png',
         title: 'Genderless Kei - Japan\'s Hot',
         description: 'Set to launch on the manufacturer\'s new A330neo aircraft in 2017, it\'s offering lots of'
     }
